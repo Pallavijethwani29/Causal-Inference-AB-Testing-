@@ -1,0 +1,129 @@
+company,year,sector,industry,annual_revenue,election_year,total_contributions,to_democrats,to_republicans,sentiment_score,treat,After
+Perry Homes,2020,housing,construction,1212340000,1,86598,3517,83054,0.35,1,1
+Perry Homes,2018,housing,construction,1034000000,0,136743,155,121588,0.093,1,0
+JPMorgan Chase and Co,2020,finance,banking,1.42E+11,1,4127659,2691295,1133405,0,0,1
+JPMorgan Chase and Co,2018,finance,banking,1.30E+11,0,3041611,1672693,1288609,0.11,1,0
+Las Vegas Sands,2020,hotels,hotels,13739000000,1,91581032,13369,91567584,0.38,1,1
+Las Vegas Sands,2018,hotels,hotels,13729000000,0,62340508,8990,62330018,-0.28,0,0
+Citadel LLC,2020,finance,hedge funds,3260000000,1,18490200,140136,18349564,-0.875,0,1
+Citadel LLC,2018,finance,hedge funds,3500000000,0,19607080,321330,19285750,-0.105,0,0
+Renaissance Technologies,2020,finance,investment management,9700000,1,18378805,18069150,292855,1.28,1,1
+Renaissance Technologies,2018,finance,investment management,9700000,0,15785164,9651291,5956773,-0.03,0,0
+Blackstone Group,2020,finance,investment management,7338000000,1,36891767,5705174,31181573,0.32,1,1
+Blackstone Group,2018,finance,investment management,6833000000,0,15762285,2053087,13707108,-1.8,0,0
+Microsoft Corp,2020,computer & technology,computer software,1.43E+11,1,17001468,15638313,1266985,-0.17,0,1
+Microsoft Corp,2018,computer & technology,computer software,1.26E+11,0,14410128,12074270,1734833,-0.28,0,0
+Koch Industries,2020,multicompany,multicompany,1.15E+11,1,13883214,251548,13630773,-0.508,0,1
+Koch Industries,2018,multicompany,multicompany,1.10E+11,0,12105259,69159,11985999,-0.0582,0,0
+Charles Schwab Corp,2020,finance,investment banking,10721000000,1,15075533,671469,14402196,0.41,1,1
+Charles Schwab Corp,2018,finance,investment banking,10132000000,0,10288767,319513,9968401,0.18,1,0
+Marcus & Millichap,2020,finance,real estate development,806000000,1,12831004,12794890,36047,0.21,1,1
+Marcus & Millichap,2018,finance,real estate development,815000000,0,9688457,9597307,91150,-0.35,0,0
+Bain Capital,2020,finance,commercial finance,198000000,1,17732417,17502517,193700,0.26,1,1
+Bain Capital,2018,finance,commercial finance,99000000,0,8985928,8380472,128400,-0.07,0,0
+Alphabet Inc,2020,computer & technology,internet services,1.62E+11,1,21177686,19878233,1101801,0.2051,1,1
+Alphabet Inc,2018,computer & technology,internet services,1.37E+11,0,8209648,6897804,1255858,-0.4839,0,0
+University of California,2020,education,education,36861977000,1,19852170,19386460,326560,0.54,1,1
+University of California,2018,education,education,34625296000,0,7626569,7361055,238732,0.27,1,0
+Elliott Management,2020,finance,investment management,13300000000,1,10390665,288988,9825177,0,0,1
+Elliott Management,2018,finance,investment management,4700000000,0,6876898,76946,6797250,-0.46,0,0
+MasterCard,2020,business services,financial transaction services,16883000000,1,540643,371673,164097,-0.17,0,1
+MasterCard,2018,business services,financial transaction services,14950000000,0,428777,234264,192820,0.45,1,0
+Visa,2020,business services,financial transaction services,21846000000,1,1243599,777681,449527,-0.13,0,1
+Visa,2018,business services,financial transaction services,22977000000,0,948333,488806,454799,-0.423,0,0
+Intel Corp,2020,computer & technology,semiconductors,71965000000,1,2838093,2078458,679076,-0.217,0,1
+Intel Corp,2018,computer & technology,semiconductors,70848000000,0,1863001,1083319,704029,0.03,1,0
+Verizon Communications,2020,computer & technology,telecommunications,1.32E+11,1,3885977,2625372,1116265,-0.2,0,1
+Verizon Communications,2018,computer & technology,telecommunications,1.31E+11,0,2982674,1426614,1327681,-0.0222,0,0
+Cisco Systems,2020,computer & technology,computer networks,49301000000,1,2381006,1930786,314990,-0.25,0,1
+Cisco Systems,2018,computer & technology,computer networks,51904000000,0,1628852,1120445,408852,0.37,1,0
+Comcast Corp,2020,consumer discretionary,telecommunications,1.09E+11,1,10661371,5445223,2996657,0.029,1,1
+Comcast Corp,2018,consumer discretionary,telecommunications,94507000000,0,6161747,2855759,3146714,0.0354,1,0
+Adobe Inc,2020,computer & technology,computer software,11171000000,1,1207267,1085301,54738,1.24,1,1
+Adobe Inc,2018,computer & technology,computer software,9030000000,0,274177,255470,9388,0.33,1,0
+Oracle Corp,2020,computer & technology,computer software,39068000000,1,3478524,2365058,680060,0.019,1,1
+Oracle Corp,2018,computer & technology,computer software,39506000000,0,1656127,836996,777268,-0.167,0,0
+Salesforce.com,2020,computer & technology,computer software,17098000000,1,1864164,1622301,87802,0.32,1,1
+Salesforce.com,2018,computer & technology,computer software,13282000000,0,843014,750607,68404,0.42,1,0
+Nvidia Corp,2020,computer & technology,semiconductors,10918000000,1,849281,778075,31072,-0.037,0,1
+Nvidia Corp,2018,computer & technology,semiconductors,11716000000,0,167694,152182,7999,-0.285,0,0
+Netflix,2020,consumer discretionary,broadcasting,20156000000,1,5420196,1640940,19480,-0.12,0,1
+Netflix,2018,consumer discretionary,broadcasting,15794000000,0,2481427,416832,1600,-0.001,0,0
+IBM Corp,2020,computer & technology,computer software,77147000000,1,5045259,3831397,368846,-0.27,0,1
+IBM Corp,2018,computer & technology,computer software,79591000000,0,1931242,1514062,127452,0.17,1,0
+Texas Instruments,2020,computer & technology,semiconductors,14383000000,1,469784,291165,172344,0.26,1,1
+Texas Instruments,2018,computer & technology,semiconductors,15784000000,0,291987,148690,128496,-1,0,0
+Qualcomm Inc,2020,computer & technology,semiconductors,23531000000,1,1144100,664456,388123,2,1,1
+Qualcomm Inc,2018,computer & technology,semiconductors,24273000000,0,5474873,334581,298475,-0.33,0,0
+Intuit Inc,2020,computer & technology,computer software,7679000000,1,815437,558559,241303,1,1,1
+Intuit Inc,2018,computer & technology,computer software,6784000000,0,815437,319417,141206,0.13,1,0
+Ford Motor Co,2020,transport,auto,1.56E+11,1,2122856,1147673,945742,-0.05,0,1
+Ford Motor Co,2018,transport,auto,1.60E+11,0,2082550,996229,1071333,-0.489,0,0
+Cigna Corp,2020,finance,insurance,1.54E+11,1,2193120,1147484,1024803,0.4,1,1
+Cigna Corp,2018,finance,insurance,48650000000,0,1090691,455368,627634,-0.75,0,0
+Citigroup Inc,2020,finance,banking,1.03E+11,1,1825523,1107949,671031,0.254,1,1
+Citigroup Inc,2018,finance,banking,97120000000,0,2295175,978295,1030290,-0.524,0,0
+General Electric,2020,multi-sector,diverse,95214000000,1,2578078,1492223,1056419,0.33,1,1
+General Electric,2018,multi-sector,diverse,97012000000,0,3068678,1358763,1601929,0.55,1,0
+Johnson & Johnson,2020,medical,pharmaceutical,82059000000,1,1626148,1014199,555098,-1.22,0,1
+Johnson & Johnson,2018,medical,pharmaceutical,81581000000,0,1152601,510244,620323,-0.06,0,0
+Procter & Gamble,2020,consumer staples,cleaning,70950000000,1,768187,447433,309234,0,0,1
+Procter & Gamble,2018,consumer staples,cleaning,67684000000,0,674966,427995,231951,-0.6,0,0
+Goldman Sachs,2020,finance,investment banking,36546000000,1,4511498,2556330,1209495,0.07,1,1
+Goldman Sachs,2018,finance,investment banking,36616000000,0,5672265,2680379,2379170,-0.013,0,0
+Pfizer Inc,2020,medical,pharmaceutical,51750000000,1,2894522,1723267,1133832,0.033,1,1
+Pfizer Inc,2018,medical,pharmaceutical,53647000000,0,2592074,1105919,1404103,0.105,1,0
+Exxon Mobil,2020,energy,oil & gas,2.65E+11,1,2428532,929141,1448369,0.048,1,1
+Exxon Mobil,2018,energy,oil & gas,2.90E+11,0,2316250,776950,1510667,-0.086,0,0
+American Express,2020,finance,miscellaneous services,47020000000,1,1285079,834558,439893,-0.09,0,1
+American Express,2018,finance,miscellaneous services,43281000000,0,1186866,603421,549849,0.1575,1,0
+Best Buy,2020,retail/wholesale,consumer electronics,43638000000,1,627478,404654,211437,0.93,1,1
+Best Buy,2018,retail/wholesale,consumer electronics,42879000000,0,589594,301491,284365,0.4,1,0
+Nike Inc,2020,consumer discretionary,apparel,37403000000,1,1369240,949242,137129,-0.11,0,1
+Nike Inc,2018,consumer discretionary,apparel,39117000000,0,960218,267315,691892,-0.26,0,0
+CVS Health,2020,retail/wholesale,drug stores,2.57E+11,1,2625511,1714173,863986,0,0,1
+CVS Health,2018,retail/wholesale,drug stores,1.95E+11,0,877260,457337,366232,-0.3269,0,0
+Berkshire Hathaway,2020,finance,insurance,2.55E+11,1,4115048,1974782,2112759,0.531,1,1
+Berkshire Hathaway,2018,finance,insurance,2.48E+11,0,4576584,1720287,2765162,-0.059,0,0
+UnitedHealth Group,2020,healthcare,insurance,2.42E+11,1,4003938,2293219,1638066,-0.0146,0,1
+UnitedHealth Group,2018,healthcare,insurance,2.26E+11,0,2728505,1336425,1298916,0.2097,1,0
+Kroger Co,2020,retail/wholesale,supermarket chains,1.22E+11,1,698045,447542,235036,-0.094,0,1
+Kroger Co,2018,retail/wholesale,supermarket chains,1.22E+11,0,430097,158090,250138,-0.2505,0,0
+Fannie Mae,2020,finance,mortgage financing,14200000000,1,402457,383387,16444,-1.4,0,1
+Fannie Mae,2018,finance,mortgage financing,16000000000,0,129425,124116,4750,-0.4905,0,0
+Home Depot,2020,retail/wholesale,building products,1.10E+11,1,4089271,1872983,2199293,-0.074,0,1
+Home Depot,2018,retail/wholesale,building products,1.08E+11,0,3678745,1225412,2442477,0.22,1,0
+Wells Fargo,2020,finance,banking,1.04E+11,1,5523618,3447631,1821045,-0.2917,0,1
+Wells Fargo,2018,finance,banking,1.01E+11,0,3194252,1498706,1452630,-0.2139,0,0
+Starbucks Corp,2020,retail/wholesale,food & restaurants,23518000000,1,859284,760775,64300,0.252,1,1
+Starbucks Corp,2018,retail/wholesale,food & restaurants,26509000000,0,125256,57640,10813,-0.3408,0,0
+Duke Energy,2020,utilities,electric power distribution,25079000000,1,1191154,323841,864169,0,0,1
+Duke Energy,2018,utilities,electric power distribution,24521000000,0,1363684,373618,875217,0.5,1,0
+Tesla Motors,2020,transport,auto,24578000000,1,550330,487449,32760,0.0697,1,1
+Tesla Motors,2018,transport,auto,21461000000,0,202999,182346,18157,-0.0427,0,0
+CBRE Group,2020,finance,real estate operations,23894000000,1,1167085,724402,398165,2.75,1,1
+CBRE Group,2018,finance,real estate operations,21340000000,0,558220,297563,250535,0,0,0
+Dollar Tree,2020,retail/wholesale,discount & variety,23611000000,1,89077,42131,46335,-0.375,0,1
+Dollar Tree,2018,retail/wholesale,discount & variety,22823000000,0,24890,3166,21646,-0.355,0,0
+Broadcom Inc,2020,computer & technology,semiconductors,22597000000,1,1279769,966669,252107,0,0,1
+Broadcom Inc,2018,computer & technology,semiconductors,20848000000,0,429076,199426,220274,-0.488,0,0
+Rite Aid Corp,2020,retail/wholesale,drug stores,21928000000,1,440575,156100,281882,0,0,1
+Rite Aid Corp,2018,retail/wholesale,drug stores,21640000000,0,304073,113323,189949,-0.24,0,0
+DuPont Co,2020,basic materials,chemicals,21512000000,1,622020,349882,268580,-0.2783,0,1
+DuPont Co,2018,basic materials,chemicals,22594000000,0,1265934,429813,810087,-0.1176,0,0
+GAP Inc,2020,retail/wholesale,apparel,16383000000,1,421967,353452,61923,0.056,1,1
+GAP Inc,2018,retail/wholesale,apparel,16580000000,0,203199,137059,59291,0.2109,1,0
+Applied Materials Inc,2020,computer & technology,semiconductors,17202000000,1,370694,276669,83424,3.75,1,1
+Applied Materials Inc,2018,computer & technology,semiconductors,14608000000,0,165142,100193,56921,-0.2539,0,0
+BlackRock Inc,2020,finance,investment management,14539000000,1,1564883,1175315,315945,-0.1023,0,1
+BlackRock Inc,2018,finance,investment management,14198000000,0,1555036,929435,562200,0.2607,1,0
+Uber Technologies,2020,computer & technology,internet services,14147000000,1,1140505,937361,142520,0.2471,1,1
+Uber Technologies,2018,computer & technology,internet services,11270000000,0,203505,127388,30325,-0.1025,0,0
+Kellogg Co,2020,consumer staples,food & restaurants,13578000000,1,205791,128712,75920,0.1096,1,1
+Kellogg Co,2018,consumer staples,food & restaurants,13547000000,0,163836,98315,64625,-0.5897,0,0
+Kinder Morgan Inc,2020,energy,oil & gas,13209000000,1,342421,97167,220889,0,0,1
+Kinder Morgan Inc,2018,energy,oil & gas,14144000000,0,212938,60378,151291,-3.6,0,0
+Bed Bath & Beyond,2020,retail/wholesale,miscellaneous services,11159000000,1,153745,112567,27640,0.1658,1,1
+Bed Bath & Beyond,2018,retail/wholesale,miscellaneous services,12029000000,0,48871,41152,7548,0.9091,1,0
+AutoZone Inc,2020,retail/wholesale,auto,12632000000,1,135654,57187,75437,0.3055,1,1
+AutoZone Inc,2018,retail/wholesale,auto,11864000000,0,105951,15318,88021,0.5021,1,0
